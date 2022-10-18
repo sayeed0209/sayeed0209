@@ -24,6 +24,7 @@
             href="https://github.com/sayeed0209/sayeed0209/blob/main/Front%20end%20Developer.pdf"
             target="blank">Resume</a>
 <br />
+
  <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"
     style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
@@ -46,6 +47,7 @@
                 href="https://github.com/sayeed0209/sayeed0209/blob/main/Front%20end%20Developer.pdf">
                 <img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
         </div></p>
-####<p>Credit: [Sayeed](https://github.com/sayeed0209)</p>
+###<span>Credit:[Sayeed](https://github.com/sayeed0209)</span>
+ 
  </div>
 </div>
