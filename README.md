@@ -20,7 +20,7 @@
 
 -📫 How to reach me **sayeed0209@gmail.com**
 
-- 📄 Know about my experiences <a
+-📄 Know about my experiences <a
             href="https://github.com/sayeed0209/sayeed0209/blob/main/Front%20end%20Developer.pdf"
             target="blank">Resume</a>
 <br />
