@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/sayeed0209" target="_blank">Sayeed</a></h1>
 
 <h3 align="center">A passionate front-end developer in Barcelona</h3>
-
+<div align="center">
 <div>
   <a target="_blank" align="right"><img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></a>
 </div>
@@ -15,7 +15,7 @@
 - 📄 Know about my experiences: <a href="https://github.com/sayeed0209/sayeed0209/blob/main/Front%20end%20Developer.pdf" target="_blank">Resume</a>
 
 <br />
-
+</div>
 <h3 align="center">Connect with me 🤝 </h3>
 
 <p align="center">
