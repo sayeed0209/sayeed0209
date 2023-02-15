@@ -5,7 +5,7 @@
 <div>
   <a target="_blank" align="right"><img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></a>
 </div>
-<div align="right">
+<div >
  - 🔭 I’m currently working at <a href="https://mejorconpublicidad.com/" target="_blank">MejorconPublicidad S.L.</a>
  - 🌱 I’m currently working on React.
  - 🤝 I’m available for front-end developer job opportunities.
