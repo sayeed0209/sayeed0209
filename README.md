@@ -6,13 +6,13 @@
   <a target="_blank" align="right"><img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></a>
 </div>
 
-- 🔭 I’m currently working at <a href="https://mejorconpublicidad.com/" target="_blank">MejorconPublicidad S.L.</a>
-- 🌱 I’m currently working on React.
-- 🤝 I’m available for front-end developer job opportunities.
-- 🌱 I’m currently learning Node.js and microservices.
-- 💬 Ask me about **React.js**.
-- 📫 How to reach me: **sayeed0209@gmail.com**
-- 📄 Know about my experiences: <a href="https://github.com/sayeed0209/sayeed0209/blob/main/Front%20end%20Developer.pdf" target="_blank">Resume</a>
+ - 🔭 I’m currently working at <a href="https://mejorconpublicidad.com/" target="_blank">MejorconPublicidad S.L.</a>
+ - 🌱 I’m currently working on React.
+ - 🤝 I’m available for front-end developer job opportunities.
+ - 🌱 I’m currently learning Node.js and microservices.
+ - 💬 Ask me about **React.js**.
+ - 📫 How to reach me: **sayeed0209@gmail.com**
+ - 📄 Know about my experiences: <a href="https://github.com/sayeed0209/sayeed0209/blob/main/Front%20end%20Developer.pdf" target="_blank">Resume</a>
 
 <br />
 </div>
