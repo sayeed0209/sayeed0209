@@ -1,3 +1,13 @@
+<style>
+  body {
+    background-color: #1a1a1a;
+    color: #d9d9d9;
+    font-family: sans-serif;
+  }
+  h1, h3 {
+    color: #f2f2f2;
+  }
+</style>
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/sayeed0209" target="_blank">Sayeed</a></h1>
 
 <h3 align="center">A passionate front-end developer in Barcelona</h3>
