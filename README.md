@@ -100,11 +100,19 @@ I'm a **Senior Frontend Engineer at [Weecover](https://weecover.com/)** focused 
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sayeed0209&show_icons=true&theme=tokyonight&hide_border=true" alt="Sayeed's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayeed0209&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/sayeed0209?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+  <a href="https://github.com/sayeed0209?tab=stars">
+    <img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>React · TypeScript · Frontend Architecture · Monorepos · Micro Frontends</strong>
 </p>
 
 ---
