@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sayeed</h1>
 
-<h3 align="center">Senior Frontend Engineer • React • TypeScript • Frontend Architecture</h3>
+<h3 align="center">Senior Frontend Engineer • Frontend Architecture • React & TypeScript</h3>
 
 <p align="center">
-  Based in Barcelona 🇪🇸 · Building scalable frontend platforms, modular architectures and microfrontends
+  Based in Barcelona 🇪🇸 · Building scalable frontend platforms, design systems and maintainable application architectures
 </p>
 
 <p align="center">
@@ -20,71 +20,68 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Senior Frontend Engineer at [Weecover](https://weecover.com/)** focused on building maintainable, scalable frontend systems with strong architectural boundaries and reusable platform capabilities.
+I'm a **Senior Frontend Engineer at [Weecover](https://weecover.com/)** focused on designing and evolving scalable frontend platforms with clear architectural boundaries, reusable capabilities and strong developer experience.
 
-- 🏗️ Working with **modular frontend architectures**, **monorepos** and **Micro Frontends** where they provide real value
-- ⚛️ Building production applications with **React**, **TypeScript** and **Vite**
-- 🧩 Experienced with **Module Federation**, shared packages and AppShell-based architectures
-- 🎨 Working with **Tailwind CSS**, **React Aria**, **Ant Design**, **MUI** and reusable design systems
-- 🔐 Experience integrating frontend platforms with **OAuth2 + PKCE** authentication flows
-- ⚙️ Focused on frontend architecture, maintainability, DX, testing and CI/CD
-- 🌱 Expanding my backend knowledge with **Node.js**, **Express** and **PostgreSQL**
-
-> 📰 **Featured by Weecover:** [Abu Sayeed — Senior Frontend Engineer at Weecover](https://weecover.com/es/blog/sobre-weecover/abu-sayeed-senior-frontend-engineer-weecover/)
+- Building **modular frontend architectures**, monorepos and AppShell-based platforms
+- Working with **Micro Frontends and Module Federation** when independent ownership or deployment makes them the right trade-off
+- Developing production applications with **React, TypeScript and Vite**
+- Building reusable **design systems** with React Aria, Tailwind CSS and component-driven architecture
+- Integrating frontend platforms with **OAuth2 + PKCE**, session management and authorization flows
+- Improving **CI/CD, testing, code quality, maintainability and developer experience**
+- Expanding my backend knowledge with **Node.js, Express and PostgreSQL**
 
 ---
 
-## 🛠️ Tech Stack
+## Architecture & Platform
 
-### Frontend
+`Modular Frontend` • `AppShell` • `Monorepos` • `Micro Frontends` • `Module Federation` • `Design Systems` • `OAuth2 / PKCE` • `CI/CD`
+
+### Frontend Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css" alt="Frontend technologies" />
 </p>
 
-`React` • `TypeScript` • `JavaScript` • `Vite` • `Tailwind CSS` • `React Aria` • `MUI` • `Ant Design`
+`React` • `TypeScript` • `JavaScript` • `Vite` • `Tailwind CSS` • `React Aria` • `TanStack Query` • `Zustand` • `React Hook Form`
 
-### Architecture & State
-
-`Modular Frontend` • `Micro Frontends` • `Module Federation` • `Monorepos` • `AppShell` • `Zustand` • `TanStack Query` • `React Hook Form`
-
-### Backend & DevOps
+### Platform & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,githubactions,git" alt="Backend and DevOps technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,githubactions,git" alt="Platform and backend technologies" />
 </p>
 
-`Node.js` • `Express` • `PostgreSQL` • `Docker` • `GitHub Actions` • `CI/CD`
+`Node.js` • `Express` • `PostgreSQL` • `Docker` • `GitHub Actions` • `Git`
 
 ---
 
-## 🎯 What I Care About
+## Engineering Principles
 
-- Clear **domain boundaries** and predictable dependency direction
-- Reusable **design systems** and shared frontend capabilities
-- Choosing **Micro Frontends only when independent deployment or ownership justifies the complexity**
-- Strong **TypeScript**, testing and code-quality practices
-- Simple architecture that scales without unnecessary abstraction
+- Strong **domain boundaries** and predictable dependency direction
+- Prefer **modular architecture** before introducing distributed frontend complexity
+- Use **Micro Frontends** when deployment independence or team ownership justifies the operational cost
+- Build reusable **design systems and shared platform capabilities** instead of duplicating application logic
+- Keep frontend systems **type-safe, testable and maintainable**
+- Optimize architecture for **developer experience and long-term evolution**, not abstraction for its own sake
 
 ---
 
-## 📌 Featured
+## Featured at Weecover
 
 <table>
   <tr>
     <td width="100%">
-      <strong>Weecover — Senior Frontend Engineer Feature</strong><br/><br/>
-      A company profile covering my role, experience and work as a Senior Frontend Engineer at Weecover.<br/><br/>
-      <a href="https://weecover.com/es/blog/sobre-weecover/abu-sayeed-senior-frontend-engineer-weecover/"><strong>Read the article →</strong></a>
+      <strong>Abu Sayeed — Senior Frontend Engineer at Weecover</strong><br/><br/>
+      Weecover's company profile about my background, engineering journey and work as a Senior Frontend Engineer.<br/><br/>
+      <a href="https://weecover.com/es/blog/sobre-weecover/abu-sayeed-senior-frontend-engineer-weecover/"><strong>Read the feature →</strong></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌍 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sayeed0209/" target="_blank"><img src="https://img.icons8.com/doodle/40/linkedin--v2.png" alt="LinkedIn"/></a>
@@ -96,27 +93,4 @@ I'm a **Senior Frontend Engineer at [Weecover](https://weecover.com/)** focused 
 
 <p align="center">
   📫 <strong>sayeed0209@gmail.com</strong> · 📄 <a href="https://github.com/sayeed0209/sayeed0209/blob/main/Front%20end%20Developer.pdf">View Resume</a>
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/sayeed0209?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-  </a>
-  <a href="https://github.com/sayeed0209?tab=stars">
-    <img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>React · TypeScript · Frontend Architecture · Monorepos · Micro Frontends</strong>
-</p>
-
----
-
-<p align="center">
-  <em>“Simplicity is the soul of efficiency.” — Austin Freeman</em>
 </p>
